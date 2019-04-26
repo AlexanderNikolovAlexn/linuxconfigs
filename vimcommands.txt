@@ -41,6 +41,9 @@ Copy/Paste:
    P - paste before cursor
    v - Visual selection 
 
+Select whole text combination:
+   ggvV - ggv shift g(like ctrl + a in windows)
+
 This is a test sentence!
 
 
