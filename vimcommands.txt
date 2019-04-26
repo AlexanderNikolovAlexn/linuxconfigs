@@ -22,6 +22,7 @@ Shortcuts:
    o - Enter insert mode on the next line
    O - Enter insert mode on the above line
    C - Delete from cursor to end of line and begin insert
+   D - Delete whole line
 
    w - Forward to the beginning of next word(separated by any non-character)
    W - Forward to the beginning of the next WORD(separate by space)
@@ -30,8 +31,16 @@ Shortcuts:
    e - Forward to the next end of word
    E - Forward to the next end of WORD
 
+   / - Search Forward
+   ? - Search Backward
    
+Copy/Paste:
 
- This is a test sentence!
+   y - Yank. Example: yw(yank word)
+   p - paste after cursor
+   P - paste before cursor
+   v - Visual selection 
+
+This is a test sentence!
 
 
