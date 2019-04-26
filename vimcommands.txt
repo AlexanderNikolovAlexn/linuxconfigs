@@ -1,3 +1,6 @@
+Video URL:
+ 1) Week 1: https://www.youtube.com/watch?v=Nim4_f5QUxA&list=PLS3zjBbwkIqnpjN8pvptYGlIs4aIQ5AMk&index=5&t=1506s
+
 Usefull links:
 http://www.viemu.com/vi-vim-cheat-sheet.gi
 vim-adventures.co
@@ -30,6 +33,9 @@ Shortcuts:
    B - Backward to the next beginning of a WORD
    e - Forward to the next end of word
    E - Forward to the next end of WORD
+   0 - Move to the zeroth charcter of the line
+   $ - Move to the last character of the line
+   ^ - Move to the first non-blank character of the line
 
    / - Search Forward
    ? - Search Backward
